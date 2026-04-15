@@ -3,5 +3,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JAVASCRIPT</li>
+  <li>JS</li>
 </ul>
+
+All custom CSS, no Tailwind used.
